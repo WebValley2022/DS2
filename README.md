@@ -1,32 +1,32 @@
 # DS2
 
-WebValley 2022 second data science challenge :bar_chart:
+WebValley 2022 Data Science #2 Challenge :bar_chart:
 ---
-what do we want to do:
-- convert ohm to ppm
-- analize the data that we will obtain(becouse we will obtain them)
+**:pushpin: Our goals**
+- Converting Ω (ohm) measurments to ppm measurments
+- Analyzing the data that we will obtain
 
-team:man::
+**:man: Team members**
 - Noam
 - Leonardo
-- Neil
+- Neel
 - Lorenzo
 - Samuele
 - Nikhil
-- Gabriele(help ds1)
-- Nikolai(help ds1)
+- Gabriele (in contact with DS1)
+- Nikolai (in contact with DS1)
 
-Concepts & missions:pager::
+**:pager: Concepts & missions**
 - 8 sensors
 - Check data
-- Learn how the sensor works
+- Learn the mechanism of the sensors
 - Data analysis
 - Data visualization
 - Try to fill the gap
 - Prediction on other locations
 - Response function
 
-Skills:loop::
+**:loop: Skills**
 - Programming (Py, Sci, R)
 - Visualization
 - Interaction with other groups
