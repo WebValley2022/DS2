@@ -4,7 +4,7 @@ WebValley 2022 second data science challenge :bar_chart:
 ---
 what do we want to do:
 - convert ohm to ppm
-- analize the data that we will obtain(becouse we will obtain them)
+- analyze the data that we will obtain (because we will obtain them)
 
 team:man::
 - Noam
