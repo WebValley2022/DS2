@@ -2,11 +2,11 @@
 
 WebValley 2022 Data Science #2 Challenge :bar_chart:
 ---
-Our Goals:
+**:pushpin: Our goals**
 - convert Ω (ohm) measurments to ppm measurments
 - analyze the data that we will obtain
 
-Team :man::
+**:man: Team members**
 - Noam
 - Leonardo
 - Neel
@@ -16,7 +16,7 @@ Team :man::
 - Gabriele (in contact with DS1)
 - Nikolai (in contact with DS1)
 
-Concepts & missions :pager::
+**:pager: Concepts & missions**
 - 8 sensors
 - Check data
 - Learn the mechanism of the sensors
@@ -26,7 +26,7 @@ Concepts & missions :pager::
 - Prediction on other locations
 - Response function
 
-Skills :loop::
+**:loop: Skills**
 - Programming (Py, Sci, R)
 - Visualization
 - Interaction with other groups
