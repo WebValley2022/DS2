@@ -3,8 +3,8 @@
 WebValley 2022 Data Science #2 Challenge :bar_chart:
 ---
 **:pushpin: Our goals**
-- Converting Ω (ohm) measurments to ppm measurments
-- Analyzing the data that we will obtain
+- Conversion of Ω (ohm) measurments to ppm measurments
+- Analysis of the data that we will obtain
 
 **:man: Team members**
 - Noam
